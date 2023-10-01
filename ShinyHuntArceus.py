@@ -1,3 +1,11 @@
+#    v--- Notes for Jamie ---v
+#Set computer screen timeout setting off
+#keep both the computer and switch plugged in
+#transfer own shiny (preferably hacked) through Home to test timing
+#test both shiny and non-shiny with one instance in place of 10,000 in code
+#reset saves with {up+b+x} between testing scenarios
+#once both tests are passed, run the program at full 10,000 loops
+
 #Welcome to the Automated Legendary Shiny Hunt script, created by shadowcage72
 
 #To use this script, you will need python3, NXBT, and a USB Bluetooth adapter. This allows the computer to control the Nintendo witch.
